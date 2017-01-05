@@ -1,5 +1,5 @@
-#ifndef MYPCAP_H
-#define MYPCAP_H
+#ifndef CPCAP_H
+#define CPCAP_H
 
 
 #include <pcap.h>
@@ -33,4 +33,4 @@ private:
 
 };
 
-#endif // MYPCAP_H
+#endif // CPCAP_H
